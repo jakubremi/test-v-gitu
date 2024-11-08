@@ -1,2 +1,3 @@
 
 Commit v hlavní větvi
+Commit ve větvi branch2
